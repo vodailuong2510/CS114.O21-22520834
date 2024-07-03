@@ -15,6 +15,7 @@
 * [ Giảng viên hướng dẫn](#giangvien)
 * [ Thành viên nhóm](#thanhvien)
 * [ Đồ án môn học](#doan)
+  
 ## GIỚI THIỆU MÔN HỌC
 <a name="gioithieumonhoc"></a>
 * **Tên môn học**: Máy học - MACHINE LEARNING
@@ -22,17 +23,6 @@
 * **Lớp học**: CS114.O21
 * **Ngày bắt đầu**: 19/02/2024
 * **Năm học**: 2023-2024
-## QUÁ TRÌNH MÔN HỌC
-<a name ="quatrinh"></a>
-### 1.LẬP TRÌNH PYTHON
-
-
-<a name ="colab"></a>
-### 2.COLAB ASSSIGNMENTS
-
-
-<a name ="QT"></a>
-### 3.QT IN CLASS
 
 ## GIẢNG VIÊN HƯỚNG DẪN
 <a name="giangvien"></a>
