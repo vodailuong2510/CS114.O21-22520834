@@ -15,7 +15,6 @@
 * [ Giảng viên hướng dẫn](#giangvien)
 * [ Thành viên nhóm](#thanhvien)
 * [ Đồ án môn học](#doan)
-  
 ## GIỚI THIỆU MÔN HỌC
 <a name="gioithieumonhoc"></a>
 * **Tên môn học**: Máy học - MACHINE LEARNING
@@ -23,6 +22,17 @@
 * **Lớp học**: CS114.O21
 * **Ngày bắt đầu**: 19/02/2024
 * **Năm học**: 2023-2024
+## QUÁ TRÌNH MÔN HỌC
+<a name ="quatrinh"></a>
+### 1.LẬP TRÌNH PYTHON
+
+
+<a name ="colab"></a>
+### 2.COLAB ASSSIGNMENTS
+
+
+<a name ="QT"></a>
+### 3.QT IN CLASS
 
 ## GIẢNG VIÊN HƯỚNG DẪN
 <a name="giangvien"></a>
@@ -32,12 +42,11 @@
 ## THÀNH VIÊN NHÓM
 <a name="thanhvien"></a>
 | STT    | MSSV          | Họ và Tên              | Github                                               | Email                   |
-| ------ |-------------| ----------------------|-----------------------------------------------------:|-------------------------
+| ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
 | 1      | 22520834      | Võ Đại Lượng           |                                                      |22520834@gm.uit.edu.vn  |
-| 2      | 22520833      | Trần Xuân Lương        |                                                      |22520833@gm.uit.edu.vn  |
-| 3      | 22520891      | Trần Tiến Minh         |                                                      |22520891@gm.uit.edu.vn  |
-| 4      | 22520808      | Hoàng Phạm Bảo Long    |                                                      |22520808@gm.uit.edu.vn  |
+| 2      | 22520808      | Hoàng Phạm Bảo Long    |                                                      |22520808@gm.uit.edu.vn  |
+| 3      |               |                        |                                                      |                         | 
 
 ## ĐỒ ÁN MÔN HỌC
-<a name="doan">Motocycle Classification</a>
+<a name="doan"></a>
 
